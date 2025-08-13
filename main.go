@@ -6,7 +6,7 @@ import (
 	"net/http"
 )
 
-// create a simple web server that listens on port 8080 and serves a simple HTML page
+// test create a simple web server that listens on port 8080 and serves a simple HTML page
 func main() {
 	http.HandleFunc("/", handleHome)
 
