@@ -1,5 +1,2 @@
 # test_autopr
-sds
-asdf
-sdss
-test
+test_refactor
